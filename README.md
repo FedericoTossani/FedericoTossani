@@ -1,16 +1,11 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**FedericoTossani/FedericoTossani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some facts about me:
+- 📚 I'm currently studying MSc in Natural Sciences and Management at Alma Mater Studiorum University of Bologna.
+- 🔭 I’m currently working as Freelance Ornithologist and Data Analyst.
+- 🌱 I’m currently learning R on DataCamp.com, but I'm intrested also in Python and SQL.
+- 👯 I’m looking to collaborate on different projects about Remote Sensing, GIS, Data Analysis, Wildlife Monitoring.
+- 🤔 I’m looking for help with 
+- 📫 How to reach me:  email - fede.tossani@gmail.com,
+                       telegram - @fede_tossani 
+- ⚡ Fun fact: I've got a van and I love climbing. 
