@@ -5,5 +5,5 @@ Here are some facts about me:
 - 🌱 I’m currently learning R, but I'm intrested also in Python.
 - 👯 I’m looking to collaborate on different projects about Movement Ecology, Ecotoxicology, Remote Sensing, GIS, Data Analysis. 
 - 📫 How to reach me:  email - fede.tossani@gmail.com,
-                       telegram - @fede_tossani 
+                       BlueSky - @ecotos.bsky.social
 - ⚡ Fun fact: I've got a van and I love climbing. 
